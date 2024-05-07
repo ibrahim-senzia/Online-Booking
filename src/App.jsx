@@ -9,6 +9,7 @@ function App() {
   return (
     <>
     <h1>(GIF)-Movie-Ticket Online-Booking</h1>
+    <p>To ease the the process of getting a ticket the traditional way of commuting individually</p>
     </>
   )
 }
