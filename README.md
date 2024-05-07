@@ -3,9 +3,13 @@ This is a simple online movie ticket booking website built using HTML, CSS, and 
 
 ## Features:
 1>Browse movies by title or release date
+
 2>View showtimes and available seats for each movie
+
 3>Select and reserve seats
+
 4>Enter personal information to complete the booking process
+
 5>Receive a confirmation email with a summary of the booking
 
 ### Getting Started
@@ -14,14 +18,20 @@ git clone https://github.com/ibrahim-senzia/Online-Booking
 
 ## Usage
 i>Browse movies by title or release date
+
 ii>Select a movie to view showtimes and available seats
+
 iii>Choose your seats by clicking on them
+
 iv>Enter your personal information to complete the booking process
+
 v>Check your email for a confirmation of your booking
 
 # Technologies Used
 a>HTML
+
 b>CSS
+
 c>JavaScript
 
 ## Contributing
