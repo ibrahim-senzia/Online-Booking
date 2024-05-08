@@ -31,7 +31,7 @@ const Header = () => {
           />
         ))}
       </div>
-      <button onClick={handleClick}>An example of a movie that can be watched after the booking is done</button>
+      <button onClick={handleClick}>An example of a movie that can be watched after the booking is done.</button>
       <video width="100%" controls>
         <source src="src/images/Trap _ Official Trailer (720p).mp4" type="video/mp4" />
         Your browser does not support the video tag.
