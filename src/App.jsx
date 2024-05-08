@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-    
+     (GIF) Online-Movie Ticket Booking is website made to reduce the process of physically going to a movie store and booking for a movie there.
     <Header />
     <Footer />
   
